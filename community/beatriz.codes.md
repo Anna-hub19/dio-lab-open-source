@@ -1,0 +1,1 @@
+<p> meu nome é Anna Beatriz, sou programadora junior full stack e criadora de conteudo sobre tecnologia e programação. </p>
